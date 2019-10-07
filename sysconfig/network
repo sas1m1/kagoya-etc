@@ -1,0 +1,4 @@
+# Created by anaconda
+IPV6_AUTOCONF=no
+NETWORKING_IPV6=yes
+NETWORKING=yes
